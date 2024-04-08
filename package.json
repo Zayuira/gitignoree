@@ -1,0 +1,11 @@
+{
+  "name": "gitignore_test2",
+  "version": "1.0.0",
+  "description": "dahij tushij bna hu",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
